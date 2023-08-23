@@ -1,1 +1,9 @@
+.card {
+  position: relative;
+}
 
+.bookmark {
+  position: absolute;
+  top: 0px;
+  left: 290px;
+}
